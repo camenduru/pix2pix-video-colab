@@ -14,4 +14,4 @@ https://github.com/timothybrooks/instruct-pix2pix
 https://arxiv.org/abs/2211.09800
 
 ## Output
-
+https://user-images.githubusercontent.com/54370274/218374859-1e58e676-0f52-4a88-bb79-fd5c6cc241e8.mp4
