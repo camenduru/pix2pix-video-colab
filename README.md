@@ -1,4 +1,5 @@
-🐣 Please follow me for new updates https://twitter.com/camenduru
+🐣 Please follow me for new updates https://twitter.com/camenduru <br />
+🔥 Please join our discord server https://discord.gg/k5BwmmvJJU
 
 ## 🦒 Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/pix2pix-video-colab/blob/main/pix2pix-video-colab.ipynb)
